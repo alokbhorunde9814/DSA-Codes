@@ -1,4 +1,4 @@
-/*#PROVIDED BY mr.SHLOK
+/*
 1.Consider a student database of SEIT class (at least 15 records). Database contains different
 Fields of every student like Roll No, Name and SGPA.(array of structure)
 a. Design a roll call list, arrange list of students according to roll numbers in ascending
