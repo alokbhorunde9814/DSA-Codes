@@ -1,4 +1,4 @@
-/*#PROVIDED BY mr.SHLOK
+/*
 10.   Department maintains student’s database. The file contains roll number, name, division and address. Write
 a program to
 i. create a sequential file to store and maintain student data.
