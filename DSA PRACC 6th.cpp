@@ -1,4 +1,4 @@
-/*#PROVIDED BY mr.SHLOK
+/*
 6.To implement In-order TBT and to perform In-order, and Pre-order traversals.*/
 #include <iostream>
 #include <cstdlib>
