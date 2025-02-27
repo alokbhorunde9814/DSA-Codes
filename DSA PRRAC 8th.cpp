@@ -1,4 +1,4 @@
-/*#PROVIDED BY mr.SHLOK
+/*
 8.   Represent a given graph using adjacency matrix /adjacency list and find the shortest path using
 Dijkstra's algorithm (single source all destination).*/
 #include <iostream>
